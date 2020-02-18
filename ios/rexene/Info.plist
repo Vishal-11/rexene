@@ -71,6 +71,12 @@
 		<string>Octicons.ttf</string>
 		<string>SimpleLineIcons.ttf</string>
 		<string>Zocial.ttf</string>
+		<string>LiberationSans-Bold.ttf</string>
+		<string>LiberationSans-BoldItalic.ttf</string>
+		<string>LiberationSans-Italic.ttf</string>
+		<string>LiberationSans-Regular.ttf</string>
+		<string>GlacialIndifference-Bold.otf</string>
+		<string>GlacialIndifference-Regular.otf</string>
 	</array>
 </dict>
 </plist>
