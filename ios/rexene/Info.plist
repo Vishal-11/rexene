@@ -55,6 +55,19 @@
 	<false/>
 	<key>UIAppFonts</key>
 	<array>
+		<string>LiberationSans-Bold.ttf</string>
+		<string>LiberationSans-BoldItalic.ttf</string>
+		<string>LiberationSans-Italic.ttf</string>
+		<string>LiberationSans-Regular.ttf</string>
+		<string>GlacialIndifference-Bold.otf</string>
+		<string>GlacialIndifference-Regular.otf</string>
+		<string>HelveticaNeue-Bold.otf</string>
+		<string>HelveticaNeue-Light.otf</string>
+		<string>HelveticaNeue-Medium.otf</string>
+		<string>HelveticaNeue-Regular.otf</string>
+		<string>HelveticaNeue-RegularItalic.otf</string>
+		<string>HelveticaNeue-Thin.otf</string>
+		<string>HelveticaNeue-Ultralight.otf</string>
 		<string>AntDesign.ttf</string>
 		<string>Entypo.ttf</string>
 		<string>EvilIcons.ttf</string>
@@ -71,12 +84,6 @@
 		<string>Octicons.ttf</string>
 		<string>SimpleLineIcons.ttf</string>
 		<string>Zocial.ttf</string>
-		<string>LiberationSans-Bold.ttf</string>
-		<string>LiberationSans-BoldItalic.ttf</string>
-		<string>LiberationSans-Italic.ttf</string>
-		<string>LiberationSans-Regular.ttf</string>
-		<string>GlacialIndifference-Bold.otf</string>
-		<string>GlacialIndifference-Regular.otf</string>
 	</array>
 </dict>
 </plist>

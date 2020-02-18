@@ -24,6 +24,7 @@ const App = () => {
           <Text
             style={{
               fontFamily: 'GlacialIndifference-Bold',
+              // fontFamily: 'HelveticaNeue-Bold',
               fontSize: hp(5),
             }}>
             Rexene
@@ -31,6 +32,7 @@ const App = () => {
           <Text
           style={{
             fontFamily: 'GlacialIndifference-Regular',
+            // fontFamily: 'HelveticaNeue-Regular',
             fontSize: hp(3),
             marginTop: hp(2),
             // backgroundColor: 'pink',
